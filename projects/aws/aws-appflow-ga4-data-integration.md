@@ -2,7 +2,7 @@
 
 ## Architecure diagram
 
-![AWS Appflow Google Analytics 4 Data Integration](diagram-embed.svg)
+![AWS Appflow Google Analytics 4 Data Integration](aws-appflow-ga4-serverless-diagram-embed-2.svg)
 
 ```diagram
 
