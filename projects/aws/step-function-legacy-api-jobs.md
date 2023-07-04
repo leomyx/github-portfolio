@@ -2,7 +2,7 @@
 
 ## Architecture diagram
 
-![AWS Step function with legacy API jobs]()
+![AWS Step function with legacy API jobs](aws-optimised-functions-with-legacy-monolith.svg)
 
 ```diagram
 

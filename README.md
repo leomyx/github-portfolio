@@ -13,9 +13,11 @@ Showcase some projects I designed, architected, coded and led to success
 -->
 [Details - AWS Appflow Google Analytics 4 Data Integration](projects/aws/aws-appflow-ga4-data-integration.md)
 
-#### 2. Integrating AWS Lambda Authoriser with OpenID as an Identity Provider to provide access to a RESTful API Gateway
+#### 2. Integrating AWS Lambda Authoriser with OpenID and RESTful API Gateway
 
+<!--
 ![AWS Integrating AWS Lambda as an authorizer with OpenID as an Identity Provider to provide access to a RESTful API Gateway](projects/aws/aws-lambda-authoriser-openid-rest-api-gateway.svg)
+-->
 
 [Details](projects/aws/aws-lambda-authoriser-openid-rest-api-gateway.md)
 
