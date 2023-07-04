@@ -21,10 +21,22 @@ Showcase some projects I designed, architected, coded and led to success
 
 [Details](projects/aws/aws-lambda-authoriser-openid-rest-api-gateway.md)
 
-### Project: AWS Step function with legacy API jobs
+#### 3. AWS Step function with legacy API jobs
 
 [Details](projects/aws/step-function-legacy-api-jobs.md)
 
-### Project: AWS Serverless Lambda - Slack Notification for events in cross account S3 Bucket - leverage SAM
+#### 4. AWS Serverless Lambda - Custom Slack Notification for important events in cross account S3 Bucket - leverage SAM
 
 [Details](projects/aws/slack-notification-cross-account-s3-bucket.md)
+
+#### 5. Utilise SAM Deployment and Makefile in CI/CD for AWS stacks
+
+[Details](TBD)
+
+#### 6. Cluster Redshift vs Serverless Redshift - Migration Process
+
+[Details](TBD)
+
+#### 7. Leverage AWS Chatbot, SNS, topic tunned for particular events of services to enhance monitoring and alerts
+
+[Details](TBD)
